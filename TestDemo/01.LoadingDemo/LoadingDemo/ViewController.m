@@ -19,11 +19,11 @@
 - (IBAction)start:(id)sender {
     [_animationView startAnimation];
 }
-
+#pragma mark - qwe
 - (void)viewDidLoad {
     [super viewDidLoad];
     
- 
+    
     
 }
 
